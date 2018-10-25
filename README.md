@@ -1,1 +1,1 @@
-# knu_ppt_animate
+# 動態效果的投影片範例
